@@ -1,0 +1,2 @@
+I'm writing something in a new branch and will push it to the remote branch
+corresponding with the local new branch.
