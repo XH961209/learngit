@@ -1,0 +1,2 @@
+I'm learning git.
+After adding this file, I edit this line.
