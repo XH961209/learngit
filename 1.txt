@@ -1,2 +1,2 @@
-I'm learning git.
+I'm learning git, a distributed version control system.
 After adding this file, I edit this line.
